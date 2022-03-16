@@ -15,7 +15,7 @@ allprojects {
 #### 步骤2.添加依赖项
 ```
 dependencies {
-	implementation 'com.github.Larissa-x:DownloadManager:1.0.0'
+	implementation 'com.github.Larissa-x:DownloadManager:1.0.1'
 }
 ```
 #### 步骤3.在你的application中进行初始化
